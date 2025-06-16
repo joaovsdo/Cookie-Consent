@@ -50,3 +50,6 @@ body {
     padding-right: 3rem;
 }
 
+.cookie-container.accepted {
+    display: none;
+}
